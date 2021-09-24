@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/gui/ManageEmployeesFrame.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/pojo/UserPojo.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/dao/UserDao.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/pojo/Bar_Code_Img_Generator.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/gui/UpdateReceptionistFrame.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/gui/AddItemFrame.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/gui/SplashScreenFrame.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/dbutil/DBConnection.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/gui/AddEmployeesFrame.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/gui/BillingFrame.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/gui/ManageStocksFrame.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/pojo/EmployeePojo.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/dao/EmployeeDao.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/images/photo_2021-07-19_23-03-00%20(2).jpg</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/gui/ReceptionistOptionFrame.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/gui/UpdateItemFrame.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/images/photo_2021-07-19_23-03-01.jpg</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/gui/BillingsOptions.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/gui/RemoveEmployeesFrame.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/gui/ViewReceptionistFrame.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/dao/ProductDao.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/gui/ViewOrdersFrame.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/gui/UpdateEmployeesFrame.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/gui/ViewEmployeesFrame.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/pojo/ReceptionistPojo.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/gui/ManagerOptionsFrame.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/gui/AddReceptionistFrame.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/gui/ManageReceptionistsFrame.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/pojo/UserProfile.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/gui/RemoveReceptionistFrame.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/images/photo_2021-07-19_23-03-00.jpg</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/dao/ReceptionistDao.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/gui/RemoveItemFrame.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/pojo/ProductsPojo.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/gui/loginframe.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/desktop.application.system/src/system/gui/ViewStocksFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
